@@ -67,7 +67,7 @@ You can change the default settings for network structure and training process i
 
 ### Train with your own local feature or data 
 
-The provided models are trained using SIFT. You had better retrain the model if you want to use ConvMatch with your own local feature, such as RootSIFT, SuperPoint and etc. 
+The provided models are trained using SIFT. You had better retrain the model if you want to use CGR-Net with your own local feature, such as RootSIFT, SuperPoint and etc. 
 
 You can follow the provided example scirpts in `./dump_match` to generate dataset for your own local feature or data.
 
